@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class Thingy {
+public class Activity5 {
 
     public static void main(String[] args){
         // Figure out how to merge two images together
